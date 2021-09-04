@@ -85,13 +85,5 @@ Hometown uses [semantic versioning](https://semver.org) and follows a versioning
 ## Contributing to Hometown
 
 Setting up your Hometown development environment is [exactly like setting up your Mastodon development environment](https://docs.joinmastodon.org/dev/overview/). Pull requests should be made to the `hometown-dev` branch, which is our default branch in Github.
-
-## License
-
-Copyright (C) 2016-2021 Eugen Rochko & other Mastodon contributors (see [AUTHORS.md](AUTHORS.md))
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+=======
+**IRC channel**: #mastodon on irc.libera.chat
